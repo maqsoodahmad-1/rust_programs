@@ -1,0 +1,1 @@
+/home/maqsood/maqsood/don't\ open\ it's\ personel/programing/rustprog/rust_programs/GCD_EDL/target/debug/GCD_EDL: /home/maqsood/maqsood/don't\ open\ it's\ personel/programing/rustprog/rust_programs/GCD_EDL/src/main.rs
