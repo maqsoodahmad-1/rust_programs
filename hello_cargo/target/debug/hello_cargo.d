@@ -1,0 +1,1 @@
+/home/maqsood/maqsood/don't\ open\ it's\ personel/programing/rustprog/rust_programs/hello_cargo/target/debug/hello_cargo: /home/maqsood/maqsood/don't\ open\ it's\ personel/programing/rustprog/rust_programs/hello_cargo/src/main.rs
